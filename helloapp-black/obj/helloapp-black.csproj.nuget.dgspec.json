@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-black/helloapp-black/helloapp-black.csproj": {}
+    "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-white/helloapp-black/helloapp-black.csproj": {}
   },
   "projects": {
-    "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-black/helloapp-black/helloapp-black.csproj": {
+    "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-white/helloapp-black/helloapp-black.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-black/helloapp-black/helloapp-black.csproj",
+        "projectUniqueName": "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-white/helloapp-black/helloapp-black.csproj",
         "projectName": "helloapp-black",
-        "projectPath": "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-black/helloapp-black/helloapp-black.csproj",
+        "projectPath": "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-white/helloapp-black/helloapp-black.csproj",
         "packagesPath": "/Users/alexanderkuzevanov/.nuget/packages/",
-        "outputPath": "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-black/helloapp-black/obj/",
+        "outputPath": "/Users/alexanderkuzevanov/RiderProjects/git-actually/helloapp-white/helloapp-black/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexanderkuzevanov/.nuget/NuGet/NuGet.Config"
